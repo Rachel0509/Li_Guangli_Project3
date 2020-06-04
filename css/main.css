@@ -1,0 +1,109 @@
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.mr75{
+    margin-right: 75px;
+}
+.mr100{
+    margin-right: 100px;
+}
+
+.header .logo{
+    width: 200px;
+    height: 80px;
+    background-color: black;
+    margin-right: 100px;
+    line-height: 80px;
+    margin-top: 20px;
+}
+
+.header .nav-menu {
+    width: 900px;
+    height: 80px;
+    background-color: black;
+    line-height: 80px;
+    margin-top: 20px;
+}
+
+.banner{
+    margin-top: 20px;
+    height: 200px;
+    line-height: 200px;
+    background-color: black;
+}
+
+.tip{
+    margin-top: 20px;
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    background-color: black;
+}
+
+.img-content{
+    width: 350px;
+}
+
+.img-content .img{
+    background-color: black;
+    margin-top: 20px;
+    height: 350px;
+    line-height: 350px;
+}
+.img-content .txt{
+    background-color: black;
+    margin-top: 20px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.second-info-txt{
+    background-color: black;
+    margin-top: 20px;
+    height: 350px;
+    line-height: 350px;
+    width: 775px;
+}
+.second-info-img{
+    background-color: black;
+    margin-top: 20px;
+    height: 350px;
+    line-height: 350px;
+    width: 350px;
+}
+
+.third-txt{
+    background-color: black;
+    margin-top: 20px;
+    height: 350px;
+    line-height: 350px;
+    width: 100%;
+}
+
+.third-img .img{
+    background-color: black;
+    margin-top: 20px;
+    height: 350px;
+    line-height: 350px;
+    width: 550px;
+}
+
+.footer{
+    background-color: black;
+    margin-top: 20px;
+    height: 200px;
+    line-height: 200px;
+    margin-bottom: 20px;
+}
+
